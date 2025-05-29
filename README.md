@@ -1,1 +1,1 @@
-ARmor:Ride with Augmented Safety - smart helmet..
+ARmor:Ride with Augmented Safety -- Smart Helmet 
